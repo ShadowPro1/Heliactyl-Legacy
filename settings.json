@@ -2,7 +2,7 @@
   "version": "13.1.0",
   "name": "Heliactyl",
   "icon": "https://cdn.discordapp.com/attachments/987734229469253674/1000783847643959398/Copy_of_untitled_1.png",
-  "defaulttheme": "Heliactyl", /*defaulttheme: you can choice Heliactyl or legacy :) this code i add legacy to!*/
+  "defaulttheme": "legacy", /*Legacy only here!*/
   "pterodactyl": {
     "domain": "Pterodactyl URL",
     "key": "Pterodactyl Client/Admin API Key with all permissions"
@@ -89,6 +89,7 @@
           "duplicate check": false
         }
       },
+
       "ratelimits": {
         "/callback": 2,
         "/create": 1,
