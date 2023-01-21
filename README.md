@@ -5,6 +5,9 @@
 # Heliactyl 
 # v13 anti vpn check fix working only on legacy 
 
+If you find bugs pls report them i may be able to fix em not 100% sure tho
+
+
 All features:
 - Resource Management (Use it to create servers, etc)
 - Coins (AFK Page earning, Linkvertise earning, Gift them away)
