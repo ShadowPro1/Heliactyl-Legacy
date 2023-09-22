@@ -1,9 +1,11 @@
-![Heliactyl](link)
 
 <hr>
 
 # Heliactyl 
-# v13 anti vpn check fix working only on legacy 
+# v13 
+
+
+ ## Fixed, vpn and alt acc check
 
 If you find bugs pls report them i may be able to fix em not 100% sure tho
 
